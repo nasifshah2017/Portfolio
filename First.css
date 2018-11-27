@@ -4,14 +4,29 @@ h1{
 }
 
 #stripe{
+
+
 	padding-top: 150px;
-	background-color: lavender;
+	/*background-image: url(http://bietthubiennhatrang.net/wp-content/uploads/2015/10/bien-nha-trang.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;*/
+	/*background-color: lavender;*/
 }
+
+	body{
+		background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/48840wide.jpg);
+		background-repeat: no-repeat;
+		/*background-size: cover;*/
+		background-position: center;
+		background-attachment: fixed;
+	}
+
 
 #method{
 	font-family: 'Patrick Hand', cursive;
 	text-align: center;
-	font-size: 20px;
+	font-size: 30px;
 	
 }
  
@@ -30,6 +45,10 @@ h1{
 }
 
 .navbar-nav{
+	font-family: 'Acme', sans-serif;
+}
+
+.navbar-brand{
 	font-family: 'Acme', sans-serif;
 }
 
