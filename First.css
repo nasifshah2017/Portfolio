@@ -7,20 +7,20 @@ h1{
 
 
 	padding-top: 150px;
-	/*background-image: url(http://bietthubiennhatrang.net/wp-content/uploads/2015/10/bien-nha-trang.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;*/
+	/*background-image: url(https://cdn.pixabay.com/photo/2013/03/20/13/18/sky-95185_960_720.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+	/*background-attachment: fixed;*/
 	/*background-color: lavender;*/
 }
 
-/*body{
+body{
 	background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/48840wide.jpg);
-	background-repeat: no-repeat;
+	/*background-repeat: no-repeat;*/
 	/*background-size: cover;*/
 	/*background-position: center;*/
-	/*background-attachment: fixed;
-}*/
+	/*background-attachment: fixed; */
+}
 
 
 #method{
@@ -59,8 +59,23 @@ h1{
 }
 
 #second{
-	padding-left: 100px;
+	/*padding-left: 0;*/
+	/*width: 30%;*/
 }
+
+/*.wrapper {
+	background-color: red;
+	float: right;
+	width: 100%;
+
+}
+
+img {
+	width: 30%;
+	vertical-align: top;
+}*/
+
+
 /* #object {
 	padding-right: 700px;
 } */
