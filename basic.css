@@ -1,0 +1,101 @@
+h1{
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+}
+
+#stripe{
+
+
+	padding-top: 150px;
+	/*background-image: url(https://cdn.pixabay.com/photo/2013/03/20/13/18/sky-95185_960_720.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+	/*background-attachment: fixed;*/
+	/*background-color: lavender;*/
+}
+
+body{
+	background-image: url(https://stonesrus.co.uk/wp-content/uploads/2018/03/SAVOY-GREY-BLUE-webopt-single.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+}
+
+
+#method{
+	font-family: 'Patrick Hand', cursive;
+	text-align: center;
+	font-size: 30px;
+	
+}
+ 
+
+
+ .navbar-fixed-top {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.navbar-nav{
+	font-family: 'Acme', sans-serif;
+}
+
+.navbar-brand{
+	font-family: 'Acme', sans-serif;
+}
+
+#first{
+
+	padding-top: 100px;
+	text-align: center;
+}
+
+#second{
+	padding-top: 300px;
+	/*width: 30%;*/
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+/* Clear floats after image containers */
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+/*.wrapper {
+	background-color: red;
+	float: right;
+	width: 100%;
+
+}
+
+img {
+	width: 30%;
+	vertical-align: top;
+}*/
+
+
+/* #object {
+	padding-right: 700px;
+} */
+
+/* .nav navbar-nav {
+	padding-left: 150px;
+} */
