@@ -1,6 +1,7 @@
 h1{
 	text-align: center;
 	font-family: 'Patrick Hand', cursive;
+	color: black;
 }
 
 #stripe{
@@ -15,7 +16,7 @@ h1{
 }
 
 body{
-	background-image: url(https://stonesrus.co.uk/wp-content/uploads/2018/03/SAVOY-GREY-BLUE-webopt-single.jpg);
+	background-image: url(https://i.imgur.com/EPetWlM.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -27,6 +28,7 @@ body{
 	font-family: 'Patrick Hand', cursive;
 	text-align: center;
 	font-size: 30px;
+	color: black;
 	
 }
  
@@ -58,6 +60,10 @@ body{
 	text-align: center;
 }
 
+/*#post{
+	float: right;
+}*/
+
 #second{
 	padding-top: 300px;
 	/*width: 30%;*/
@@ -78,6 +84,7 @@ body{
 	clear: both;
 	display: table;
 }
+
 
 /*.wrapper {
 	background-color: red;
