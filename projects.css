@@ -1,0 +1,52 @@
+/*body{
+	background-image: url(https://stonesrus.co.uk/wp-content/uploads/2018/03/SAVOY-GREY-BLUE-webopt-single.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+}*/
+
+
+.navbar-fixed-top {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.navbar-nav{
+	font-family: 'Acme', sans-serif;
+}
+
+.navbar-brand{
+	font-family: 'Acme', sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	padding-bottom: 150px;
+	font-family: 'Acme', sans-serif;
+	color: #0000CD;
+	background-image: url(https://clipground.com/images/beach-sky-clipart-18.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+	padding-top: 200px;
+}
+
+#part{
+
+	/*background-image: url(https://mastergolflivestream.com/images/clipart-baseball-baseball-field-8.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/*background-attachment: fixed;*/ 
+	/*padding-top: 200px;*/
+}
